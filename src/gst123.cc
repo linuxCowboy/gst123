@@ -1299,8 +1299,8 @@ Player::print_keyboard_help()
   printf ("   Backspace            -     playback rate 1x\n");
   printf ("   n                    -     play next file\n");
   printf ("   p                    -     play prev file\n");
-  printf ("   0                    -     play 1. file\n");
-  printf ("   1-9                  -     play current+n. file\n");
+  printf ("   0                    -     play last file\n");
+  printf ("   1-9                  -       *jukebox*\n");
   printf ("   l                    -     list playlist\n");
   printf ("   L                    -     with full path\n");
   printf ("   q                    -     quit gst123\n");
